@@ -67,8 +67,8 @@ require (
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/fsync v0.10.1
 	github.com/spf13/pflag v1.0.5
-	github.com/tdewolff/minify/v2 v2.20.37
-	github.com/tdewolff/parse/v2 v2.7.15
+	github.com/tdewolff/minify/v2 v2.22.2
+	github.com/tdewolff/parse/v2 v2.7.21
 	github.com/tetratelabs/wazero v1.8.2
 	github.com/yuin/goldmark v1.7.8
 	github.com/yuin/goldmark-emoji v1.0.4
@@ -155,7 +155,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.29.0 // indirect
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/oauth2 v0.24.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/time v0.8.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9 // indirect
 	google.golang.org/genproto v0.0.0-20241104194629-dd2ea8efbc28 // indirect
@@ -169,3 +169,4 @@ require (
 )
 
 go 1.22.6
+toolchain go1.24.1
